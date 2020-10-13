@@ -1,0 +1,49 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Font1">
+        <item name="fontFamily">@font/aga</item>
+    </style>
+    <style name="Font2">
+        <item name="fontFamily">@font/dancing</item>
+    </style>
+    <style name="Font3">
+        <item name="fontFamily">@font/fabrizio</item>
+    </style>
+    <style name="Font4">
+        <item name="fontFamily">@font/garamond</item>
+    </style>
+    <style name="Font5">
+        <item name="fontFamily">@font/latype</item>
+    </style>
+    <style name="Font6">
+        <item name="fontFamily">@font/nunito</item>
+    </style>
+    <style name="Font7">
+        <item name="fontFamily">@font/pamega</item>
+    </style>
+    <style name="Font8">
+        <item name="fontFamily">@font/playlist</item>
+    </style>
+    <style name="Font9">
+        <item name="fontFamily">@font/quicksand</item>
+    </style>
+    <style name="Font10">
+        <item name="fontFamily">@font/rukola</item>
+    </style>
+    <style name="Font11">
+        <item name="fontFamily">@font/script</item>
+    </style>
+    <style name="Font12">
+        <item name="fontFamily">@font/soupof</item>
+    </style>
+    <style name="Font13">
+        <item name="fontFamily">@font/wallows</item>
+    </style>
+</resources>
